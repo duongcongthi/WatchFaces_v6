@@ -2,7 +2,7 @@
    "categories":[
       {
          "name":"Live",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Live/live1.gif",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Live/live1.gif",
@@ -247,7 +247,7 @@
       },
       {
          "name":"Popular",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Popular/face1.jpg",
@@ -307,7 +307,7 @@
       },
       {
          "name":"Art",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"free",
@@ -378,7 +378,7 @@
       },
       {
          "name":"Camouflage",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -443,7 +443,7 @@
       },
       {
          "name":"Color Block",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -514,7 +514,7 @@
       },
       {
          "name":"FlexLine",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -579,7 +579,7 @@
       },
       {
          "name":"Geometric",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -644,7 +644,7 @@
       },
       {
          "name":"Kaleidoscope",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -709,7 +709,7 @@
       },
       {
          "name":"Knitted",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -774,7 +774,7 @@
       },
       {
          "name":"Merry Christmas",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -839,7 +839,7 @@
       },
       {
          "name":"Night City",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -904,7 +904,7 @@
       },
       {
          "name":"Retro Lines",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -968,114 +968,114 @@
          ]
       },
       {
-         "name":"Techgallery",
-         "gallery":[
+         "name":"Techgalleries",
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch1.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch1.png"
-            },
-            {
-               "isClockType":true,
-               "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch17.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch17.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch1.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch1.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch2.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch2.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch17.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch17.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch3.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch3.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch2.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch2.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch4.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch4.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch3.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch3.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch5.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch5.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch4.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch4.png"
+            },
+            {
+               "isClockType":true,
+               "type":"paid",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch5.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch5.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch6.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch6.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch6.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch6.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch6.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch6.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch6.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch6.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch7.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch7.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch7.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch7.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch8.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch8.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch8.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch8.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch9.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch9.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch9.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch9.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch10.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch10.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch10.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch10.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch11.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch11.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch11.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch11.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch12.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch12.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch12.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch12.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch13.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch13.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch13.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch13.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch14.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch14.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch14.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch14.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch15.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch15.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch15.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch15.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch16.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch16.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch16.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch16.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch18.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgallery/techwatch18.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch18.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch18.png"
             }
          ]
       },
       {
          "name":"Tropical Neon",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -1134,7 +1134,7 @@
       },
       {
          "name":"Womens Day",
-         "gallery":[
+         "galleries":[
             {
                "isClockType":true,
                "type":"paid",
@@ -1199,7 +1199,7 @@
       },
       {
          "name":"Abstract",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Abstract/Abstract1.jpg",
@@ -1414,7 +1414,7 @@
       },
       {
          "name":"Aesthetic 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Aesthetic2/Aesthetic1.jpg",
@@ -1519,7 +1519,7 @@
       },
       {
          "name":"Animal 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Animal2/Animal2_1.jpg",
@@ -1679,7 +1679,7 @@
       },
       {
          "name":"Black 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Black2/Black_1.jpeg",
@@ -1809,7 +1809,7 @@
       },
       {
          "name":"Bright 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Bright2/Bright_1.jpg",
@@ -1929,7 +1929,7 @@
       },
       {
          "name":"Car 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Car2/Car_1.jpg",
@@ -2139,7 +2139,7 @@
       },
       {
          "name":"Colorful Kaleidos",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorfulKaleidos/Colorful_Kaleidos_1.jpg",
@@ -2254,7 +2254,7 @@
       },
       {
          "name":"Daily Inspiration",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DailyInspiration/Daily_Inspiration1.png",
@@ -2339,7 +2339,7 @@
       },
       {
          "name":"Dark Monograms",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DarkMonograms/Dark_Monograms1.png",
@@ -2469,7 +2469,7 @@
       },
       {
          "name":"Digital World",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DigitalWorld/Digital_World1.jpg",
@@ -2609,7 +2609,7 @@
       },
       {
          "name":"Exceptional",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exceptional/Exceptional1.png",
@@ -2734,7 +2734,7 @@
       },
       {
          "name":"Flags",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flags/Flags1.png",
@@ -2789,7 +2789,7 @@
       },
       {
          "name":"Flower",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flower/Flower1.png",
@@ -2874,7 +2874,7 @@
       },
       {
          "name":"Golden 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Golden2/Golden1.jpg",
@@ -2999,7 +2999,7 @@
       },
       {
          "name":"Love 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Love2/Love_2_1.png",
@@ -3139,7 +3139,7 @@
       },
       {
          "name":"Multi Category",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MultiCategory/Multi_Category_1.png",
@@ -7449,7 +7449,7 @@
       },
       {
          "name":"Over the World",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/OvertheWorld/OverTheWorld_1.png",
@@ -7564,7 +7564,7 @@
       },
       {
          "name":"Paris",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Paris/Paris1.jpg",
@@ -7629,7 +7629,7 @@
       },
       {
          "name":"Personalized",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Personalized/Personalized1.png",
@@ -7744,7 +7744,7 @@
       },
       {
          "name":"Quotes 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Quotes2/Quotes1.png",
@@ -7864,7 +7864,7 @@
       },
       {
          "name":"Spring 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Spring2/Spring1.png",
@@ -8049,7 +8049,7 @@
       },
       {
          "name":"Vivid Colors",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/VividColors/VividColors1.png",
@@ -8219,7 +8219,7 @@
       },
       {
          "name":"White 2",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/White2/White_21.jpg",
@@ -8334,7 +8334,7 @@
       },
       {
          "name":"X-Large Faces",
-         "gallery":[
+         "galleries":[
             {
                "type":"paid",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/XLargeFaces/XLargeFaces1.png",
@@ -8449,7 +8449,7 @@
       },
       {
          "name":"Best",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Best/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Best/face1.jpg",
@@ -8479,7 +8479,7 @@
       },
       {
          "name":"New",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/New/face1.jpg",
@@ -8514,7 +8514,7 @@
       },
       {
          "name":"Exclusive",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face1.watchface",
@@ -8681,7 +8681,7 @@
       },
       {
          "name":"Cartoon",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Cartoon/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Cartoon/face1.jpg",
@@ -9281,7 +9281,7 @@
       },
       {
          "name":"Future",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Future/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Future/face1.jpg",
@@ -9311,7 +9311,7 @@
       },
       {
          "name":"Nature",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Nature/face1.jpg",
@@ -9406,7 +9406,7 @@
       },
       {
          "name":"Avangers",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Avangers/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Avangers/face1.jpg",
@@ -9436,7 +9436,7 @@
       },
       {
          "name":"2021",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/2021/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/2021/face1.jpg",
@@ -9516,7 +9516,7 @@
       },
       {
          "name":"Aesthetic",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Aesthetic/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Aesthetic/face1.jpg",
@@ -9656,7 +9656,7 @@
       },
       {
          "name":"Alice",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Alice/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Alice/face1.jpg",
@@ -9746,7 +9746,7 @@
       },
       {
          "name":"Black",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Black/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Black/face1.jpg",
@@ -10046,7 +10046,7 @@
       },
       {
          "name":"Brands",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Brands/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Brands/face1.jpg",
@@ -10331,7 +10331,7 @@
       },
       {
          "name":"Bright",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Bright/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Bright/face1.jpg",
@@ -10606,7 +10606,7 @@
       },
       {
          "name":"3D",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/3D/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/3D/face1.jpg",
@@ -10691,7 +10691,7 @@
       },
       {
          "name":"Abstract Art",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/AbstractArt/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/AbstractArt/face1.jpg",
@@ -10791,7 +10791,7 @@
       },
       {
          "name":"Animals",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Animals/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Animals/face1.jpg",
@@ -11061,7 +11061,7 @@
       },
       {
          "name":"Anime",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Anime/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Anime/face1.jpg",
@@ -11271,7 +11271,7 @@
       },
       {
          "name":"Big Mouth",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/BigMouth/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/BigMouth/face1.jpg",
@@ -11336,7 +11336,7 @@
       },
       {
          "name":"Burn",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Burn/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Burn/face1.jpg",
@@ -11426,7 +11426,7 @@
       },
       {
          "name":"Car",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Car/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Car/face1.jpg",
@@ -11721,7 +11721,7 @@
       },
       {
          "name":"Charming",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Charming/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Charming/face1.jpg",
@@ -12081,7 +12081,7 @@
       },
       {
          "name":"Coffee Art",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/CoffeeArt/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/CoffeeArt/face1.jpg",
@@ -12156,7 +12156,7 @@
       },
       {
          "name":"Cupidon",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Cupidon/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Cupidon/face1.jpg",
@@ -12226,7 +12226,7 @@
       },
       {
          "name":"DC Comics",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DCComics/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/DCComics/face1.jpg",
@@ -12391,7 +12391,7 @@
       },
       {
          "name":"Emoji",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Emoji/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Emoji/face1.jpg",
@@ -12456,7 +12456,7 @@
       },
       {
          "name":"Faith",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Faith/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Faith/face1.jpg",
@@ -12576,7 +12576,7 @@
       },
       {
          "name":"Flowers",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flowers/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flowers/face1.jpg",
@@ -12731,7 +12731,7 @@
       },
       {
          "name":"Food & drinks",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Food&drinks/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Food&drinks/face1.jpg",
@@ -12926,7 +12926,7 @@
       },
       {
          "name":"Free",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Free/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Free/face1.jpg",
@@ -13141,7 +13141,7 @@
       },
       {
          "name":"Golden",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Golden/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Golden/face1.jpg",
@@ -13241,7 +13241,7 @@
       },
       {
          "name":"Grinch",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Grinch/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Grinch/face1.jpg",
@@ -13396,7 +13396,7 @@
       },
       {
          "name":"Hygge Winter",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/HyggeWinter/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/HyggeWinter/face1.jpg",
@@ -13476,7 +13476,7 @@
       },
       {
          "name":"Joker",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Joker/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Joker/face1.jpg",
@@ -13526,7 +13526,7 @@
       },
       {
          "name":"Love",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Love/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Love/face1.jpg",
@@ -13686,7 +13686,7 @@
       },
       {
          "name":"Maleficent",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Maleficent/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Maleficent/face1.jpg",
@@ -13801,7 +13801,7 @@
       },
       {
          "name":"Marvel",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Marvel/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Marvel/face1.jpg",
@@ -14041,7 +14041,7 @@
       },
       {
          "name":"Military",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Military/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Military/face1.jpg",
@@ -14091,7 +14091,7 @@
       },
       {
          "name":"MLB",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MLB/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MLB/face1.jpg",
@@ -14231,7 +14231,7 @@
       },
       {
          "name":"Monograms",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Monograms/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Monograms/face1.jpg",
@@ -14361,7 +14361,7 @@
       },
       {
          "name":"Movies",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Movies/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Movies/face1.jpg",
@@ -14651,7 +14651,7 @@
       },
       {
          "name":"Music",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Music/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Music/face1.jpg",
@@ -14736,7 +14736,7 @@
       },
       {
          "name":"National Flags",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NationalFlags/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NationalFlags/face1.jpg",
@@ -14816,7 +14816,7 @@
       },
       {
          "name":"NBA",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NBA/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NBA/face1.jpg",
@@ -14966,7 +14966,7 @@
       },
       {
          "name":"Neon Glow",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NeonGlow/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NeonGlow/face1.jpg",
@@ -15091,7 +15091,7 @@
       },
       {
          "name":"NFL",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NFL/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NFL/face1.jpg",
@@ -15201,7 +15201,7 @@
       },
       {
          "name":"NHL",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NHL/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/NHL/face1.jpg",
@@ -15281,7 +15281,7 @@
       },
       {
          "name":"PC Games",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/PCGames/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/PCGames/face1.jpg",
@@ -15381,7 +15381,7 @@
       },
       {
          "name":"Purple",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Purple/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Purple/face1.jpg",
@@ -15476,7 +15476,7 @@
       },
       {
          "name":"Quotes",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Quotes/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Quotes/face1.jpg",
@@ -15756,7 +15756,7 @@
       },
       {
          "name":"Red",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Red/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Red/face1.jpg",
@@ -15906,7 +15906,7 @@
       },
       {
          "name":"Skull",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Skull/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Skull/face1.jpg",
@@ -16016,7 +16016,7 @@
       },
       {
          "name":"Snow White",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/SnowWhite/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/SnowWhite/face1.jpg",
@@ -16061,7 +16061,7 @@
       },
       {
          "name":"Space",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Space/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Space/face1.jpg",
@@ -16216,7 +16216,7 @@
       },
       {
          "name":"Sport",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Sport/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Sport/face1.jpg",
@@ -16401,7 +16401,7 @@
       },
       {
          "name":"Spring",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Spring/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Spring/face1.jpg",
@@ -16526,7 +16526,7 @@
       },
       {
          "name":"Star Wars",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/StarWars/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/StarWars/face1.jpg",
@@ -16796,7 +16796,7 @@
       },
       {
          "name":"The Queens Gambit",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TheQueensGambit/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TheQueensGambit/face1.jpg",
@@ -16841,7 +16841,7 @@
       },
       {
          "name":"UEFA",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/UEFA/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/UEFA/face1.jpg",
@@ -16936,7 +16936,7 @@
       },
       {
          "name":"Unicorn",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Unicorn/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Unicorn/face1.jpg",
@@ -17046,7 +17046,7 @@
       },
       {
          "name":"United States",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/UnitedStates/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/UnitedStates/face1.jpg",
@@ -17201,7 +17201,7 @@
       },
       {
          "name":"Valentines",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Valentines/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Valentines/face1.jpg",
@@ -17275,193 +17275,193 @@
          ]
       },
       {
-         "name":"gallery",
-         "gallery":[
+         "name":"galleries",
+         "galleries":[
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face1.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face1.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face1.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face1.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face2.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face2.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face2.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face2.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face3.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face3.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face3.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face3.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face4.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face4.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face4.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face4.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face5.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face5.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face5.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face5.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face6.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face6.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face6.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face6.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face7.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face7.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face7.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face7.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face8.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face8.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face8.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face8.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face9.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face9.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face9.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face9.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face10.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face10.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face10.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face10.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face11.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face11.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face11.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face11.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face12.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face12.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face12.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face12.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face13.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face13.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face13.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face13.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face14.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face14.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face14.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face14.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face15.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face15.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face15.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face15.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face16.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face16.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face16.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face16.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face17.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face17.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face17.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face17.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face18.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face18.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face18.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face18.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face19.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face19.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face19.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face19.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face20.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face20.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face20.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face20.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face21.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face21.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face21.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face21.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face22.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face22.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face22.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face22.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face23.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face23.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face23.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face23.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face24.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face24.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face24.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face24.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face25.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face25.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face25.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face25.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face26.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face26.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face26.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face26.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face27.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face27.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face27.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face27.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face28.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face28.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face28.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face28.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face29.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face29.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face29.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face29.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face30.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face30.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face30.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face30.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face31.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face31.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face31.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face31.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face32.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face32.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face32.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face32.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face33.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face33.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face33.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face33.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face34.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face34.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face34.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face34.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face35.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face35.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face35.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face35.jpg",
                "type":"paid"
             },
             {
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face36.jpg",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/gallery/face36.jpg",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face36.jpg",
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/galleries/face36.jpg",
                "type":"paid"
             }
          ]
       },
       {
          "name":"Winter",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Winter/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Winter/face1.jpg",
@@ -17631,7 +17631,7 @@
       },
       {
          "name":"Wizard",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Wizard/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Wizard/face1.jpg",
@@ -17751,7 +17751,7 @@
       },
       {
          "name":"Xmas Cartoon",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/XmasCartoon/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/XmasCartoon/face1.jpg",
@@ -17886,7 +17886,7 @@
       },
       {
          "name":"Yellow",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Yellow/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Yellow/face1.jpg",
@@ -17996,7 +17996,7 @@
       },
       {
          "name":"Zodiac",
-         "gallery":[
+         "galleries":[
             {
                "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Zodiac/face1.jpg",
                "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Zodiac/face1.jpg",
