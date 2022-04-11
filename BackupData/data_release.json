@@ -968,108 +968,108 @@
          ]
       },
       {
-         "name":"Techgalleries",
+         "name":"TechWatches",
          "galleries":[
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch1.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch1.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch1.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch1.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch17.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch17.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch17.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch17.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch2.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch2.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch2.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch2.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch3.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch3.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch3.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch3.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch4.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch4.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch4.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch4.png"
             },
             {
                "isClockType":true,
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch5.watchface",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch5.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch5.watchface",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch5.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch6.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch6.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch6.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch6.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch6.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch6.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch6.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch6.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch7.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch7.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch7.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch7.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch8.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch8.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch8.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch8.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch9.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch9.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch9.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch9.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch10.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch10.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch10.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch10.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch11.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch11.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch11.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch11.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch12.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch12.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch12.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch12.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch13.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch13.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch13.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch13.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch14.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch14.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch14.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch14.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch15.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch15.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch15.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch15.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch16.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch16.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch16.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch16.png"
             },
             {
                "type":"paid",
-               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch18.png",
-               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Techgalleries/techwatch18.png"
+               "url_download":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch18.png",
+               "url_preview":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch18.png"
             }
          ]
       },
