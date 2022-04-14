@@ -1,4 +1,4 @@
 {
- "disableClosePurchase": true,
- "makeCrashApp": true
+ "disableClosePurchase": false,
+ "makeCrashApp": false
 }
